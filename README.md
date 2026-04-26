@@ -4,6 +4,6 @@ Solving DSA problems in Python. Focused on arrays, strings, hashmaps, and patter
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 0 |
-| Strings | 0 |
-| HashMaps | 0 |
+| Arrays | 3 |
+| Strings | 1 |
+| HashMaps | 1 |
