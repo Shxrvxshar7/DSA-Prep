@@ -1,4 +1,7 @@
-
+# Problem: Longest Consecutive Sequence
+# Link: https://leetcode.com/problems/longest-consecutive-sequence/
+# Difficulty: Medium
+# Approach: Hash Set
 
 class Solution(object):
     def longestConsecutive(self, nums):
