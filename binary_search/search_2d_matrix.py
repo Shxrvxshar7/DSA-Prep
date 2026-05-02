@@ -25,4 +25,4 @@ class Solution(object):
         return False
     
 
-Time Comp: O log M*N
+#Time Comp: O log M*N
