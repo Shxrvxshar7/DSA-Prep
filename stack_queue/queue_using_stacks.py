@@ -30,7 +30,7 @@ class MyQueue(object):
     def empty(self):
         return max(len(self.stack), len(self.stack2)) == 0
         
-
+# Time: Amortized(1)
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
